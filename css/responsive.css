@@ -7,7 +7,11 @@
 @media(max-width:1200px){
 	.wrapper .content .fifth-bl .icons .pic{
 		margin: 20px 0;
+	}	
+	.wrapper .content .first-bl .health .butt-group .small{
+		margin: 0 35px 8px 0;
 	}
+
 }
 @media(max-width:768px){
 	.wrapper .content  .button{
