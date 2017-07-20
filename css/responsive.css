@@ -14,6 +14,9 @@
 
 }
 @media(max-width:768px){
+	.wrapper .content .third-bl .programm .carousel-new .carousel-control .glyphicon{
+		visibility: hidden;
+	}
 	.wrapper .content  .button{
 		padding: 10px;
 	}
