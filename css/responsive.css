@@ -1,0 +1,71 @@
+@media(min-width:1200px){
+	.container{
+		width: 1230px;
+		padding: 0 30px;
+	}
+}
+@media(max-width:1200px){
+	.wrapper .content .fifth-bl .icons .pic{
+		margin: 20px 0;
+	}
+}
+@media(max-width:768px){
+	.wrapper .content  .button{
+		padding: 10px;
+	}
+	.wrapper .content .scheme .instruction {
+	    background: url(../images/schemo-ver.png) repeat-y left;
+	    padding: 0 10px 0 30px;
+	    background-size: auto 100%;
+	}
+	.wrapper .content .why .method .meth-text{
+	float: left;
+	padding: 0;
+	}
+	.wrapper .content .why .method{
+		padding: 20px 0;
+	}
+	.wrapper .content .why .method .meth-text .name{
+		text-align: center;
+	}
+	.wrapper .content .why .method i{
+		    margin: 0 auto;
+		    float: none;
+		    margin-bottom: 20px;	
+	}
+	.wrapper .content .scheme .instruction .p-1, .wrapper .content .scheme .instruction .p-2,
+	.wrapper .content .scheme .instruction .p-3{
+	
+		padding: 0 0 35px 0;
+	}
+	.wrapper .content .six-bl .item .descr, .wrapper .content .six-bl .item .img{
+		width: 100%;
+		padding: 0;
+	}
+	.wrapper .content .first-bl{
+		background: #d7eed6;
+	}
+	.wrapper .logo{
+		padding: 0 0 0 20px;
+	}
+	.wrapper .content .third-bl .programm .column{
+		column-count:1;
+		-moz-column-count:1;
+		-webkit-column-count:1;
+		padding: 10px;
+	}
+	.wrapper .content .fourth-bl  .call{
+		padding: 0;
+	}
+	.wrapper .content .fourth-bl  .call .column-3{
+		column-count:1;
+		-moz-column-count:1;
+		-webkit-column-count:1;
+	}
+	.wrapper .content .fourth-bl  .call .grey{
+		padding: 5px;
+	}
+	.wrapper .content .fourth-bl  .call .column-3 ul li{
+		margin: 0 0 20px 0;
+	}
+}
